@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-#### Sou Jorge, tenho 17 anos, perto dos 18 💀.
+#### Olá,tudo bom? Sou Jorge, tenho 17 anos, perto dos 18 💀.
 Estudante da Escola SESI 423, formando o ensino superior médio e Cursando no Senai Ads
 
 ## Formação/Cursos
