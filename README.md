@@ -11,7 +11,7 @@
 ## Sobre mim
 
 #### Olá,tudo bom? Sou Jorge, tenho 17 anos, perto dos 18 💀.
-Estudante da Escola SESI 423, formando o ensino superior médio e Cursando no Senai Ads
+Estudante da Escola SESI 423, formando o ensino médio incompleto e Cursando no Senai Ads
 
 ## Formação/Cursos
 >➤Analise de Desenvolvimento de Sistema no Senai (2 anos)
