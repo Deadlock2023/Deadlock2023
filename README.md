@@ -1,4 +1,4 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/96103700532309699/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300" height="200px" align="center"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/96103700532309699/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" max-width="100px" height="400px" align="center"/>
 
 #  Jorge Gabriel Costa dos Santos 
 
