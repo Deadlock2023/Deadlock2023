@@ -1,4 +1,4 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/96103700532309699/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="900"  height="250px" align="center"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/96103700532309699/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300" height="200px" align="center"/>
 
 #  Jorge Gabriel Costa dos Santos 
 
@@ -10,5 +10,29 @@
 
 ## Sobre mim
 
-##### Sou Jorge, tenho 17 anos, perto dos 18 💀.
-Estudante da Escola SESI 423, formando o ensino superior médio, Cursando Analise de Desenvolvimento de Sistema(2 anos) pelo Senai.
+#### Sou Jorge, tenho 17 anos, perto dos 18 💀.
+Estudante da Escola SESI 423, formando o ensino superior médio e Cursando no Senai Ads
+
+## Formação/Cursos
+>➤Analise de Desenvolvimento de Sistema no Senai (2 anos)
+
+>➤ Curso da Microsoft- DP900
+ 
+ ## Meus Hobbies
+>➤ Estudar sobre edição de video
+
+>➤Academia
+
+>➤Desenhar
+
+>➤Criar historias para futuros projetos
+
+>➤Jogar League of Legends e Valorant
+
+>➤Tocar violão (estou no processo de aprendizagem)
+
+## Skills
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50px" align="center"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50px" align="center"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50px" align="center"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50px" align="center"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50px" align="center"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px" align="center"/>
